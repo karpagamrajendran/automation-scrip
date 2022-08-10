@@ -1,0 +1,2 @@
+# automation-scrip
+basic automation
